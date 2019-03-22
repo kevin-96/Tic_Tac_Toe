@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="rules">"Rules:
+The object of Tic Tac Toe is to get three in a row. You play on a three by three game board. The first player is known as X and the second is O. Players alternate placing Xs and Os on the game board until either you or the opponent has three in a row or all nine squares are filled. X always goes first, and in the event that no one has three in a row the game ends up being a tie.</string>
+    <string name="reset">Reset</string>
+    <string name="name">Name</string>
+    <string name="start">Start</string>
+    <string name="tic_tac_toe">Tic - Tac - Toe</string>
+</resources>
